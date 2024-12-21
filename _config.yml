@@ -27,7 +27,7 @@ author:
   bio              : "Ph.D. Candidate"
   location         : "Xi'an"
   employer         : "Xi'an Jiaotong University"
-  uri              : "https://cuiwentongxu.github.io"
+  uri              : #"https://cuiwentongxu.github.io"
   email            : "cuiwentongxu@outlook.com" 
 
   # Academic websites
