@@ -21,7 +21,7 @@ repository               : "CuiwentongXu/CuiwentongXu.github.io "
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "myphoto.png"
+  avatar           : "xu.png"
   name             : "Cuiwentong Xu (许崔文童)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate"
