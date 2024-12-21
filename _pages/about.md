@@ -9,4 +9,4 @@ redirect_from:
 
 I'm a Ph.D. candidate from School of Mechnical Engineering, Xi'an Jiaotong University. My research interests include non-stationary signal processing, time-frequency analysis, machine learning, and optimization theory, focusing on applying these techniques to fault diagnosis and predictive maintenance. 
 
- You can find my CV here: [XX's Curriculum Vitae](../assets/resume.pdf).
+ You can find my CV here: [Curriculum Vitae](../assets/resume.pdf).
