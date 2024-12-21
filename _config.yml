@@ -24,11 +24,11 @@ author:
   avatar           : "myphoto.png"
   name             : "Cuiwentong Xu (许崔文童)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Ph.D. Candidate"
+  location         : "Xi'an"
+  employer         : "Xi'an Jiaotong University"
+  uri              : "https://cuiwentongxu.github.io"
+  email            : "cuiwentongxu@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
